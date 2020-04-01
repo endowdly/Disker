@@ -1,0 +1,10 @@
+C:\Users\endowdly\Google Drive\backup\bin\Debug\netcoreapp2.1\backup.deps.json
+C:\Users\endowdly\Google Drive\backup\bin\Debug\netcoreapp2.1\backup.runtimeconfig.json
+C:\Users\endowdly\Google Drive\backup\bin\Debug\netcoreapp2.1\backup.runtimeconfig.dev.json
+C:\Users\endowdly\Google Drive\backup\bin\Debug\netcoreapp2.1\backup.dll
+C:\Users\endowdly\Google Drive\backup\bin\Debug\netcoreapp2.1\backup.pdb
+C:\Users\endowdly\Google Drive\backup\obj\Debug\netcoreapp2.1\backup.fsprojAssemblyReference.cache
+C:\Users\endowdly\Google Drive\backup\obj\Debug\netcoreapp2.1\backup.AssemblyInfoInputs.cache
+C:\Users\endowdly\Google Drive\backup\obj\Debug\netcoreapp2.1\backup.AssemblyInfo.fs
+C:\Users\endowdly\Google Drive\backup\obj\Debug\netcoreapp2.1\backup.dll
+C:\Users\endowdly\Google Drive\backup\obj\Debug\netcoreapp2.1\backup.pdb

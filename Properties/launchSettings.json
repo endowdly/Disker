@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Disker": {
-      "commandName": "Project",
-      "nativeDebugging": false
-    }
-  }
-}
