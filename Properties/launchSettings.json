@@ -2,6 +2,7 @@
   "profiles": {
     "Disker": {
       "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\endowdly\\Documents\\GitHub\\Disker\\disker.targets",
       "nativeDebugging": false
     }
   }

@@ -1,3 +1,7 @@
 ☐ Include Endowdly.Utilites 
-☐ Add IndentTree Parsing
-☐ Get all files in the trees
+✔ Add IndentTree Parsing @done(20-04-03 13:28)
+✔ Get all files in the trees @done(20-04-03 13:28)
+☐ Move ITExt into Endowdly.Utilities proper
+☐ Put all files into a zip archive s
+☐ Handle outfile
+    ☐ Handle args
